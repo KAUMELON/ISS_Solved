@@ -23,7 +23,7 @@ The Written examination is conducted for 1000 marks which include 6 subjects. Th
 Usually notification for the exam is issued around April. All female candidates and candidates belong to SC/ST are not required to pay any fee. Exam will be usually in the month of June for 3 consecutive days.  
 [Click Here to download the Syllabus](https://drive.google.com/file/d/1dsXAjQEbM76SIFc6_KxwAhLQAYpz2h0u/view?usp=sharing).  
 ```{r, echo=FALSE}
-knitr::include_url("https://drive.google.com/file/d/1dsXAjQEbM76SIFc6_KxwAhLQAYpz2h0u/view")
+knitr::include_url("https://www.kaugrapes.com/")
 ```
 Statistics I & II will be of Objective Type Questions (80 questions with maximum marks of 200 in each paper) to be attempted in 120 minutes.  
 
