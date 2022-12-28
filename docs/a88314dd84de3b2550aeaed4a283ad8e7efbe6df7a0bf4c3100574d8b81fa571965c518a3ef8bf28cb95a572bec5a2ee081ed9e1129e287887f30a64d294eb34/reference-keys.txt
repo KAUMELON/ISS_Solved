@@ -1,14 +1,10 @@
-<<<<<<< HEAD
 fig:softw2
 fig:softw3
 fig:softw4
 fig:softw5
-iss-2021-paper-i
-references
-=======
 know-your-exam
 strategy
 iss-exam-pattern
 notification-and-syllabus
+iss-2021-paper-i
 references
->>>>>>> 96234353ccabb36cae2b07e841746a67fd555043
