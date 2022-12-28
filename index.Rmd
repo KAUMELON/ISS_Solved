@@ -15,10 +15,27 @@ cover-image: images/cover.PNG
 
 # Welcome {-} 
 <p style="text-align: center;"><a href="https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath"><img src="images/cover.png" class="cover" width="250" height="400"/></a></p>  
-Welcome to **Solved Indian Staistical Service Question Papers**.
+Welcome to **Indian Staistical Service Question Papers - Solved**.
 
 # Preface {-}  
 <p style="text-align: justify;">
+The Indian Statistical Service (ISS) is a civil service under Group A of the Central Civil Services of the executive branch of the Government of India.  Indian Statistical Service (ISS) is the All India Exam that is conducted annually by the UPSC.  
+
+Final year Post graduate students of Agricultural Statistics is also eligible for appearing in the exam. Agricultural Statistics plays an important role in shaping policies and planning for economic growth in the country. Students of Agricultural Statistics entering into this service is an asset for the nation.  
+
+Preparing for ISS also helps you to deepen your knowledge in Statistics and also you will be able to clear other competitive examinations like ICAR-ARS and SRF examinations.  
+
+This entire session is devoted for solved question papers of all ISS papers from 2017. Practicing these papers will enable you to understand the question pattern and improve your ability to answer questions in time. Make maximum use of this resource.  
+
+In case of any errors or issues please report it to techasststat@gmail.com.
+
+Thank You,
+
+Dr Pratheesh P Gopinath
+
+
+
+
 </p>  
 
 
@@ -29,7 +46,6 @@ Welcome to **Solved Indian Staistical Service Question Papers**.
 ````
 <p>If you have any feedback, please feel free to contact [Dr.Pratheesh P. Gopinath](https://coavellayani.kau.in/people/dr-pratheesh-p-gopinath). E-mail: `pratheesh.pg@kau.in` Thank you!</p>  
 
-<p>This is a collection of solved question papers of Indian Statistical Service Examination from 2017 onwards </p>  
 
 ```{r logo, echo=FALSE,out.width="30%", fig.align='center'}
 knitr::include_graphics(rep("docs/logo.png"))
